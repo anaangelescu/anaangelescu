@@ -3,8 +3,9 @@
 <h2>👾✨ Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [Predictive Analytics for Flight Delays](https://github.com/anaangelescu/Predictive-Analytics-for-Flight-Delays-uwith-Deep-Learning-techniques)
+ 
 - <b>Predictive Analysis</b>
+   - [Predictive Analytics for Flight Delays](https://github.com/anaangelescu/Predictive-Analytics-for-Flight-Delays-uwith-Deep-Learning-techniques)
 
 - <b>Front-end</b>
  
