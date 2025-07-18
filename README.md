@@ -1,37 +1,60 @@
-<h1>Hey, I'm Ana! <br/><a href="https://github.com/anaangelescu">Programmer</a> | <a href="www.linkedin.com/in/ana-maria-angelescu-916ab124b">Student of Data Science and Business</a>
+<p align="center">
+  <span style="font-size:4em;">💖 Hey, I’m <strong>Ana</strong>! 💖</span><br/><br/>
+  <a href="https://github.com/anaangelescu">
+    <img 
+      src="https://img.shields.io/badge/Programmer-💻-FF69B4?style=for-the-badge&logo=github&logoColor=white" 
+      alt="Programmer Badge"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/ana-maria-angelescu-916ab124b">
+    <img 
+      src="https://img.shields.io/badge/Data_Science_Student-🎓-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn Badge"
+    />
+  </a>
+</p>
 
-<h2>👾✨ Projects:</h2>
+<h2 align="center">👾✨ <span style="color:#FF69B4;">Projects</span> ✨👾</h2>
 
-- <b> Machine Learning / Predictive Analysis </b>
+- **🌟 Machine Learning / Predictive Analysis**  
+  - **Custom Neural‑Network Library in C**  
+    _Languages_: C | Python  
+  - **LSTM Time‑Series Forecaster + Dashboard**  
+    _Languages_: Python (TensorFlow/Keras, Flask) | JavaScript (React, D3.js) | Docker  
+  - **Predictive Analytics for Flight Delays**  
+    _Languages_: R | Python (TensorFlow/Keras, scikit-learn)  
 
-   - [Custom Neural‑Network Library in C] C | Python
-    
-   - [LSTM Time‑Series Forecaster + Dashboard] Python (TensorFlow/Keras, Flask) | React | D3.js | Docker 
+- **🧬 Bioinformatics & Scientific Computing**  
+  - **HMM‑Based Gene Prediction Tool**  
+    _Languages_: Python | MATLAB (HMM) | Java (Swing)  
+  - **High‑Performance Sensor Signal Processor**  
+    _Languages_: C/C++ (DSP libraries) | FreeRTOS | Python  
 
-   - [Predictive Analytics for Flight Delays] R | Python (https://github.com/anaangelescu/Predictive-Analytics-for-Flight-Delays-uwith-Deep-Learning-techniques)
- 
-- <b> Bioinformatics & Scientific Computing </b>
+- **💻 Full-Stack**  
+  - **AI‑Powered Code Review Assistant**  
+    _Languages_: Python | JavaScript (Node.js, React) | YAML (GitHub Actions)  
 
-   - [HMM‑Based Gene Prediction Tool] Python | MATLAB (HMM) | Java (Swing)
-   - [High‑Performance Sensor Signal Processor in C]  C/C++ (DSP libraries) | FreeRTOS | Python for offline validation
+- **🔒 Cybersecurity**  
+  - **Network Intrusion Detection System (NIDS)**  
+    _Languages_: Python | Scapy | TensorFlow Lite | JavaScript (React)  
 
-- <b> Full-Stack </b>
+- **📊 Big Data Analytics**  
+  - **Spark‑Based Log Analytics Pipeline**  
+    _Languages_: Python | Scala | Apache Spark | Hive | JavaScript (React)  
 
-   - [AI‑Powered Code Review Assistant] Python | Node.js | React | GitHub Actions | OpenAI/HuggingFace
- 
-- <b> Cybersecurity </b>
-
-   - [Network Intrusion Detection System (NIDS)] Python | Scapy | TensorFlow Lite | React
-  
-- <b> Big Data Analytics </b>
-
-   - [Spark‑Based Log Analytics Pipeline] Python/Scala | Spark | Hive | React
-   - 
-<h2> 🙋🏻‍♀️ Want to connect with me?</h2>
-
-[<img align="left" alt="Ana Maria Angelescu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="@amangelescu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/amangelescu/
-[linkedin]: https://www.linkedin.com/in/ana-maria-angelescu-916ab124b
+<h2 align="center">🙋🏻‍♀️ <span style="color:#FF69B4;">Want to connect with me?</span></h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ana-maria-angelescu-916ab124b">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn Badge"
+    />
+  </a>
+  <a href="https://www.instagram.com/amangelescu/">
+    <img 
+      src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" 
+      alt="Instagram Badge"
+    />
+  </a>
+</p>
 
