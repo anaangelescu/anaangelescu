@@ -2,9 +2,8 @@
 
 <h2>👾✨ Projects:</h2>
 
-- <b>Machine Learning</b>
- 
-- <b>Predictive Analysis</b>
+- <b>Machine Learning / Predictive Analysis</b>
+
    - [Predictive Analytics for Flight Delays] R | Python (https://github.com/anaangelescu/Predictive-Analytics-for-Flight-Delays-uwith-Deep-Learning-techniques) 
 
 - <b>Front-end</b>
@@ -14,7 +13,7 @@
  
 - <b>Cybersecurity</b>
   
-
+- <b>Big Data Analytics</b>
 
 <h2> 🙋🏻‍♀️ Want to connect with me?</h2>
 
