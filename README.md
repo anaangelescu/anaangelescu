@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:4em;">💖 Hey, I’m <strong>Ana</strong>! 💖</span><br/><br/>
+  <h1>💖 Hey, I’m <strong>Ana</strong>! 💖<br/><br/>
   <a href="https://github.com/anaangelescu">
     <img 
       src="https://img.shields.io/badge/Programmer-💻-FF69B4?style=for-the-badge&logo=github&logoColor=white" 
@@ -13,7 +13,6 @@
     />
   </a>
 </p>
-
 <h2 align="center">👾✨ <span style="color:#FF69B4;">Projects</span> ✨👾</h2>
 
 - **🌟 Machine Learning / Predictive Analysis**  
