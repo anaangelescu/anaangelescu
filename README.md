@@ -5,7 +5,7 @@
 - <b>Machine Learning</b>
  
 - <b>Predictive Analysis</b>
-   - [Predictive Analytics for Flight Delays](https://github.com/anaangelescu/Predictive-Analytics-for-Flight-Delays-uwith-Deep-Learning-techniques)
+   - [Predictive Analytics for Flight Delays] R | Python (https://github.com/anaangelescu/Predictive-Analytics-for-Flight-Delays-uwith-Deep-Learning-techniques) 
 
 - <b>Front-end</b>
  
