@@ -2,19 +2,31 @@
 
 <h2>👾✨ Projects:</h2>
 
-- <b>Machine Learning / Predictive Analysis</b>
+- <b> Machine Learning / Predictive Analysis </b>
 
-   - [Predictive Analytics for Flight Delays] R | Python (https://github.com/anaangelescu/Predictive-Analytics-for-Flight-Delays-uwith-Deep-Learning-techniques) 
+   - [Custom Neural‑Network Library in C] C | Python
+    
+   - [LSTM Time‑Series Forecaster + Dashboard] Python (TensorFlow/Keras, Flask) | React | D3.js | Docker 
 
-- <b>Front-end</b>
+   - [Predictive Analytics for Flight Delays] R | Python (https://github.com/anaangelescu/Predictive-Analytics-for-Flight-Delays-uwith-Deep-Learning-techniques)
  
+- <b> Bioinformatics & Scientific Computing </b>
 
-- <b>Back-End</b>
+   - [HMM‑Based Gene Prediction Tool] Python | MATLAB (HMM) | Java (Swing)
+   - [High‑Performance Sensor Signal Processor in C]  C/C++ (DSP libraries) | FreeRTOS | Python for offline validation
+
+- <b> Full-Stack </b>
+
+   - [AI‑Powered Code Review Assistant] Python | Node.js | React | GitHub Actions | OpenAI/HuggingFace
  
-- <b>Cybersecurity</b>
+- <b> Cybersecurity </b>
+
+   - [Network Intrusion Detection System (NIDS)] Python | Scapy | TensorFlow Lite | React
   
-- <b>Big Data Analytics</b>
+- <b> Big Data Analytics </b>
 
+   - [Spark‑Based Log Analytics Pipeline] Python/Scala | Spark | Hive | React
+   - 
 <h2> 🙋🏻‍♀️ Want to connect with me?</h2>
 
 [<img align="left" alt="Ana Maria Angelescu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
