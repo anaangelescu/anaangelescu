@@ -16,26 +16,9 @@
 <h2 align="center">👾✨ <span style="color:#FF69B4;">Projects</span> ✨👾</h2>
 
 - **🌟 Machine Learning / Predictive Analysis**  
-  - **Custom Neural‑Network Library in C**  
-    _Languages_: C | Python  
-  - **LSTM Time‑Series Forecaster + Dashboard**  
-    _Languages_: Python (TensorFlow/Keras, Flask) | JavaScript (React, D3.js) | Docker  
+  - **Custom Neural‑Network Library in C**    
   - **Predictive Analytics for Flight Delays**  
-    _Languages_: R | Python (TensorFlow/Keras, scikit-learn)  
-
-- **🧬 Bioinformatics & Scientific Computing**  
-  - **HMM‑Based Gene Prediction Tool**  
-    _Languages_: Python | MATLAB (HMM) | Java (Swing)  
-  - **High‑Performance Sensor Signal Processor**  
-    _Languages_: C/C++ (DSP libraries) | FreeRTOS | Python  
-
-- **💻 Full-Stack**  
-  - **AI‑Powered Code Review Assistant**  
-    _Languages_: Python | JavaScript (Node.js, React) | YAML (GitHub Actions)  
-
-- **🔒 Cybersecurity**  
-  - **Network Intrusion Detection System (NIDS)**  
-    _Languages_: Python | Scapy | TensorFlow Lite | JavaScript (React)  
+    _Languages_: R | Python (TensorFlow/Keras, scikit-learn)    
 
 - **📊 Big Data Analytics**  
   - **Spark‑Based Log Analytics Pipeline**  
