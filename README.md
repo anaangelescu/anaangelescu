@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>💖 Hey, I’m <strong>Ana</strong>! 💖<br/><br/>
+  <h1> Hey, I’m <strong>Ana</strong>! <br/><br/>
   <a href="https://github.com/anaangelescu">
     <img 
       src="https://img.shields.io/badge/Programmer-💻-FF69B4?style=for-the-badge&logo=github&logoColor=white" 
